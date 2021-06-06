@@ -1,0 +1,842 @@
+[
+  {
+    "alimento": "Arroz Branco Cozido",
+    "medida": "4 Colheres de Sopa",
+    "qtde": 100,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Arroz Integral Cozido",
+    "medida": "6 Colheres de Sopa",
+    "qtde": 120,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Batata Doce Cozida",
+    "medida": "1 Colher de Servir e Meia",
+    "qtde": 140,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Batata Inglesa",
+    "medida": "1 unidade",
+    "qtde": 120,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Biscoito de arroz integral",
+    "medida": "13 unidades",
+    "qtde": 30,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Biscoito de polvilho",
+    "medida": "10 Unidades",
+    "qtde": 33,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Bolo caseiro sem glúten",
+    "medida": "1 Pedaço Pequeno",
+    "qtde": 30,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Farelo de aveia sem glúten",
+    "medida": "3 Colheres de sopa",
+    "qtde": 33,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Farinha de Aveia sem glúten",
+    "medida": "2 Colheres de Sopa",
+    "qtde": 36,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Farinha de Mandioca sem glúten",
+    "medida": "2 Colheres de Sopa",
+    "qtde": 30,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Goma de tapioca",
+    "medida": "3 colheres de sopa",
+    "qtde": 50,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Granola sem glúten",
+    "medida": "4 Colheres de sopa",
+    "qtde": 35,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Inhame cozido",
+    "medida": "1 unidade média",
+    "qtde": 125,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Macarrão Cozido sem glúten",
+    "medida": "1 Pegador",
+    "qtde": 110,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Macarrão integral sem glúten",
+    "medida": "1 pegador e meio",
+    "qtde": 150,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Mandioca Cozida",
+    "medida": "3 Colheres de Sopa",
+    "qtde": 110,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Mandioquinha",
+    "medida": "5 Colheres de sopa cheias",
+    "qtde": 175,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Milho cozido",
+    "medida": "4 Colheres de sopa",
+    "qtde": 145,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Pão de forma sem glúten",
+    "medida": "2 fatias",
+    "qtde": 50,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Pipoca natural",
+    "medida": "3 xícaras de chá",
+    "qtde": 27,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Polenta Frita",
+    "medida": "2 Unidades Médias",
+    "qtde": 80,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Purê de Batata",
+    "medida": "2 Colheres de Servir",
+    "qtde": 135,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Quinoa",
+    "medida": "meia xícara",
+    "qtde": 100,
+    "categoria": "carboidratos"
+  },
+  {
+    "alimento": "Almôndega caseira",
+    "medida": "2 unidades",
+    "qtde": 90,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Atum em Lata",
+    "medida": "4 Colheres de Sopa",
+    "qtde": 90,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Bife de Fígado",
+    "medida": "1 Unidade Média",
+    "qtde": 110,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Bife Grelhado",
+    "medida": "1 Unidade Média",
+    "qtde": 90,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Camarão assado",
+    "medida": "7 Unidades",
+    "qtde": 160,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Carne Assada",
+    "medida": "1 Fatia Pequena",
+    "qtde": 75,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Carne Moída Refogada",
+    "medida": "3 Colheres de Sopa cheias",
+    "qtde": 80,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Costela Bovina Assada",
+    "medida": "1 Pedaço Pequeno",
+    "qtde": 40,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Filé de Frango à Milanesa",
+    "medida": "1 Filé Pequeno",
+    "qtde": 80,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Filé de Frango Grelhado",
+    "medida": "1 Filé Médio",
+    "qtde": 100,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Filé de peixe",
+    "medida": "1 filé",
+    "qtde": 150,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Frango Assado",
+    "medida": "1 Pedaço de Peito ou 1 Coxa",
+    "qtde": 100,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Hamburguer Grelhado",
+    "medida": "1 Unidade",
+    "qtde": 100,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Lombo de Porco Assado",
+    "medida": "1 Fatia",
+    "qtde": 90,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Omelete Simples",
+    "medida": "2 Unidades",
+    "qtde": 120,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Ovo Cozido",
+    "medida": "3 Unidades",
+    "qtde": 150,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Ovo Frito",
+    "medida": "1 Unidade",
+    "qtde": 50,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Patinho moído",
+    "medida": "1 escumadeira cheia",
+    "qtde": 95,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Pernil assado",
+    "medida": "1 fatia",
+    "qtde": 65,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Salmão",
+    "medida": "1 filé pequeno",
+    "qtde": 100,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Sardinha em Conserva",
+    "medida": "1 Unidade",
+    "qtde": 40,
+    "categoria": "carnes"
+  },
+  {
+    "alimento": "Abóbora Cozida",
+    "medida": "2 Colheres de Sopa",
+    "qtde": 55,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Abobrinha Cozida",
+    "medida": "3 Colheres de Sopa",
+    "qtde": 90,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Acelga Cozida",
+    "medida": "2 Colheres de Sopa e Meia",
+    "qtde": 81,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Acelga Crua Picada",
+    "medida": "9 Colheres de Sopa",
+    "qtde": 90,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Agrião",
+    "medida": "22 Ramos",
+    "qtde": 130,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Aipo Cru",
+    "medida": "2 Unidades",
+    "qtde": 80,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Alface",
+    "medida": "15 Folhas",
+    "qtde": 130,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Almeirão",
+    "medida": "5 Folhas",
+    "qtde": 65,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Aspargo em Conserva",
+    "medida": "8 Unidades",
+    "qtde": 80,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Berinjela Cozida",
+    "medida": "2 Colheres de Sopa",
+    "qtde": 50,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Beterraba Crua Ralada",
+    "medida": "2 Colheres de Sopa",
+    "qtde": 40,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Brócolis Cozido",
+    "medida": "1 escumadeira",
+    "qtde": 60,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Broto de Alfafa Cru",
+    "medida": "1 Xícara de Chá e Meia",
+    "qtde": 50,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Broto de Feijão Cozido",
+    "medida": "1 Colher de Servir e Meia",
+    "qtde": 81,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Cenoura Cozida",
+    "medida": "7 rodelas",
+    "qtde": 35,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Cenoura Cozida Picada",
+    "medida": "1 Colher de Servir",
+    "qtde": 40,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Cenoura Crua Picada",
+    "medida": "1 Colher de Servir",
+    "qtde": 36,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Chuchu Cozido",
+    "medida": "2 Colheres de Servir e Meia",
+    "qtde": 60,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Couve-Flor Cozido",
+    "medida": "3 Ramos",
+    "qtde": 75,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Couve-manteiga crua",
+    "medida": "1 colher de sopa e meia",
+    "qtde": 20,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Couve-manteiga refogada",
+    "medida": "3 colheres de sopa",
+    "qtde": 54,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Ervilha em Conserva",
+    "medida": "1 Colher de Sopa",
+    "qtde": 13,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Ervilha Fresca",
+    "medida": "1 Colher de Sopa e Meia",
+    "qtde": "19,5",
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Escarola",
+    "medida": "15 Folhas",
+    "qtde": 83,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Espinafre Cozido",
+    "medida": "3 Colheres de Sopa",
+    "qtde": 60,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Jiló Cozido",
+    "medida": "1 Colher de Sopa e Meia",
+    "qtde": 40,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Mostarda",
+    "medida": "8 Folhas",
+    "qtde": 83,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Palmito em Conserva",
+    "medida": "2 Unidades",
+    "qtde": 100,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Pepino Japonês",
+    "medida": "1 Unidade",
+    "qtde": 130,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Pepino Picado",
+    "medida": "4 Colheres de Sopa",
+    "qtde": 115,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Pimentão Cru Picado",
+    "medida": "3 Colheres de Sopa",
+    "qtde": 72,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Quiabo Cozido",
+    "medida": "2 Colheres de Sopa",
+    "qtde": 80,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Rabanete",
+    "medida": "3 Unidades",
+    "qtde": 102,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Repolho Branco Cozido",
+    "medida": "5 Colheres de Sopa",
+    "qtde": 75,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Repolho Branco Cru Picado",
+    "medida": "6 Colheres de Sopa",
+    "qtde": 72,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Repolho Roxo Cru Picado",
+    "medida": "5 Colheres de Sopa",
+    "qtde": 70,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Rúcula",
+    "medida": "15 Folhas",
+    "qtde": 83,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Salsão Cru",
+    "medida": "2 Colheres de Sopa",
+    "qtde": 38,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Tomate Caqui",
+    "medida": "2 Fatias e Meia",
+    "qtde": 75,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Tomate Cereja",
+    "medida": "7 Unidades",
+    "qtde": 70,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Tomate Gaúcho",
+    "medida": "4 Fatias",
+    "qtde": 80,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Vagem",
+    "medida": "2 Unidades",
+    "qtde": 11,
+    "categoria": "verduras"
+  },
+  {
+    "alimento": "Ervilha Seca Cozida",
+    "medida": "2 Colheres de Sopa e Meia",
+    "qtde": 73,
+    "categoria": "leguminosas"
+  },
+  {
+    "alimento": "Feijão Branco Cozido",
+    "medida": "1 Colher de Sopa e Meia",
+    "qtde": 48,
+    "categoria": "leguminosas"
+  },
+  {
+    "alimento": "Feijão cozido (50% grão/caldo)",
+    "medida": "1 concha",
+    "qtde": 85,
+    "categoria": "leguminosas"
+  },
+  {
+    "alimento": "Feijão Cozido (Somente Grãos)",
+    "medida": "2 Colheres de Sopa",
+    "qtde": 50,
+    "categoria": "leguminosas"
+  },
+  {
+    "alimento": "Feijão Preto Cozido (50% caldo)",
+    "medida": "1 Concha",
+    "qtde": 86,
+    "categoria": "leguminosas"
+  },
+  {
+    "alimento": "Grão de Bico Cozido",
+    "medida": "1 Colher de Sopa e Meia",
+    "qtde": 36,
+    "categoria": "leguminosas"
+  },
+  {
+    "alimento": "Lentilha Cozida",
+    "medida": "2 Colheres de Sopa cheias",
+    "qtde": 50,
+    "categoria": "leguminosas"
+  },
+  {
+    "alimento": "Soja Cozida",
+    "medida": "1 Colher de Servir",
+    "qtde": 43,
+    "categoria": "leguminosas"
+  },
+  {
+    "alimento": "Abacate",
+    "medida": "1 Colher de Sopa",
+    "qtde": 32,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Abacaxi",
+    "medida": "2 Fatias",
+    "qtde": 130,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Acerola",
+    "medida": "32 Unidades",
+    "qtde": 224,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Ameixa-preta Seca",
+    "medida": "3 Unidades",
+    "qtde": 30,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Ameixa-vermelha",
+    "medida": "4 Unidades",
+    "qtde": 130,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Banana Nanica",
+    "medida": "1 Unidade",
+    "qtde": 80,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Banana Prata",
+    "medida": "1 Unidade",
+    "qtde": 86,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Caju",
+    "medida": "2 Unidades e Meia",
+    "qtde": 147,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Caqui",
+    "medida": "1 Unidade",
+    "qtde": 113,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Carambola",
+    "medida": "2 Unidades",
+    "qtde": 220,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Cereja",
+    "medida": "24 Unidades",
+    "qtde": 96,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Damasco Seco",
+    "medida": "4 Unidades",
+    "qtde": 30,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Fruta do Conde",
+    "medida": "Meia Unidade",
+    "qtde": 75,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Goiaba",
+    "medida": "Meia Unidade",
+    "qtde": 95,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Jabuticaba",
+    "medida": "20 Unidades",
+    "qtde": 140,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Jaca",
+    "medida": "4 Bagos",
+    "qtde": 132,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Kiwi",
+    "medida": "2 Unidades",
+    "qtde": 154,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Laranja Baia",
+    "medida": "8 Gomos",
+    "qtde": 144,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Laranja-pêra",
+    "medida": "1 Unidade",
+    "qtde": 137,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Limão",
+    "medida": "4 Unidades",
+    "qtde": 252,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Maçã",
+    "medida": "1 Unidade",
+    "qtde": 130,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Mamão Formosa",
+    "medida": "1 Fatia",
+    "qtde": 160,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Mamão Papaia",
+    "medida": "1/2 Unidade",
+    "qtde": 140,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Manga",
+    "medida": "1 Unidade pequena",
+    "qtde": 110,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Maracujá (Suco Puro)",
+    "medida": "1/2 Xícara de Chá",
+    "qtde": 94,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Melancia",
+    "medida": "2 Fatias",
+    "qtde": 220,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Melão",
+    "medida": "3 Fatias",
+    "qtde": 240,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Mexerica",
+    "medida": "1 unidade",
+    "qtde": 170,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Morango",
+    "medida": "10 Unidades",
+    "qtde": 240,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Nectarina",
+    "medida": "2 Unidades",
+    "qtde": 184,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Pêra",
+    "medida": "1 Unidade",
+    "qtde": 133,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Pêssego",
+    "medida": "2 Unidades",
+    "qtde": 226,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Pitaya",
+    "medida": "1 unidade pequena",
+    "qtde": 160,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Salada de Frutas (Banana, Maçã, Laranja e Mamão)",
+    "medida": "1/2 Xícara de Chá",
+    "qtde": 125,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Tâmara",
+    "medida": "2 unidades",
+    "qtde": 25,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Tangerina",
+    "medida": "1 Unidade",
+    "qtde": 148,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Uva Itália",
+    "medida": "8 Uvas",
+    "qtde": 100,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Uva Passa",
+    "medida": "1 Colher de Sopa",
+    "qtde": 17,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Uva Rubi",
+    "medida": "8 Uvas",
+    "qtde": 100,
+    "categoria": "frutas"
+  },
+  {
+    "alimento": "Amêndoas",
+    "medida": "4 unidades",
+    "qtde": 8,
+    "categoria": "oleaginosas"
+  },
+  {
+    "alimento": "Amendoim natural",
+    "medida": "8 unidades",
+    "qtde": 8,
+    "categoria": "oleaginosas"
+  },
+  {
+    "alimento": "Castanha de caju",
+    "medida": "3 unidades",
+    "qtde": 6,
+    "categoria": "oleaginosas"
+  },
+  {
+    "alimento": "Castanha de Pará",
+    "medida": "2 unidades",
+    "qtde": 8,
+    "categoria": "oleaginosas"
+  },
+  {
+    "alimento": "Nozes",
+    "medida": "2 unidades",
+    "qtde": 8,
+    "categoria": "oleaginosas"
+  },
+  {
+    "alimento": "Pistache",
+    "medida": "6 unidades",
+    "qtde": 6,
+    "categoria": "oleaginosas"
+  },
+  {
+    "alimento": "Semente de abóbora",
+    "medida": "9 unidades",
+    "qtde": 9,
+    "categoria": "oleaginosas"
+  }
+]
